@@ -1,4 +1,4 @@
-# SSH-Brute-Force-Mitigation-Lab
+SSH-Brute-Force-Mitigation-Lab
 
 Objective:
 
